@@ -1,0 +1,22 @@
+{
+  "name": "xbetacommon",
+  "version": "0.1.0",
+  "description": "Common Library for BetaX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abruzze/xBetaCommon.git"
+  },
+  "keywords": [
+    "BetaX"
+  ],
+  "author": "Luca Abruzzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abruzze/xBetaCommon/issues"
+  },
+  "homepage": "https://github.com/abruzze/xBetaCommon#readme"
+}
